@@ -41,52 +41,39 @@
 
                     <form id="post-expt-form">
                         <div class="form-group">
-                            <label for="q1">Question 1 - Text</label>
-                            <input type="text" class="form-control" id="q1" name="q1" placeholder="Enter answer">
-                        </div>
-                        <div class="form-group">
-                            <label for="q2">Question 2 - Radio</label>
+                            <label for="q1">Question 1 - Which technique do you prefer?</label>
                             <div class="radio">
                               <label>
-                                <input type="radio" name="q2" id="optionsRadios1" value="radio1">
-                                Radio response 1
+                                <input type="radio" name="q1" id="optionsRadios1" value="radio1">
+                                AutoComPaste
                               </label>
                             </div>
                             <div class="radio">
                               <label>
-                                <input type="radio" name="q2" id="optionsRadios2" value="radio2">
-                                Radio response 2
+                                <input type="radio" name="q1" id="optionsRadios2" value="radio2">
+                                CTRL-C, CTRL-V
                               </label>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="q3">Question 3 - Checkbox</label>
-                            <div class="checkbox">
-                              <label>
-                                <input type="checkbox" name="q3" value="checkbox1">
-                                Checkbox response 1
-                              </label>
-                            </div>
-                            <div class="checkbox">
-                              <label>
-                                <input type="checkbox" name="q3" value="checkbox2">
-                                Checkbox response 2
-                              </label>
-                            </div>
+                            <label for="q2">Question 2 - Why do you prefer the technique you have chosen(in context of experiment)?</label>
+                            <textarea class="form-control" id="q2" name="q2" placeholder="Enter response"></textarea>
                         </div>
                         <div class="form-group">
-                            <label for="q4">Question 4 - Select Options</label>
-                            <select class="form-control" name="q4">
-                                <option value="option1">Option response 1</option>
-                                <option value="option2">Option response 2</option>
-                                <option value="option3">Option response 3</option>
-                                <option value="option4">Option response 4</option>
-                                <option value="option1">Option response 5</option>
-                            </select>
+                            <label for="q3">Question 3 - Under what situations do you prefer to use AutoComPaste?</label>
+                            <textarea class="form-control" id="q3" name="q3" placeholder="Enter response"></textarea>
                         </div>
-                        <div class="form-group">
-                            <label for="q5">Question 5 - Textarea</label>
+                         <div class="form-group">
+                            <label for="q4">Question 4 - Under what situations do you prefer to use CTRL-C, CTRL-V?</label>
+                            <textarea class="form-control" id="q4" name="q4" placeholder="Enter response"></textarea>
+                        </div>
+                         <div class="form-group">
+                            <label for="q5">Question 5 - What are some of the difficulties you faced when doing the experiment?</label>
                             <textarea class="form-control" id="q5" name="q5" placeholder="Enter response"></textarea>
+                        </div>
+                        <div class="form-group">
+                            <label for="q6">Question 6 - Area of Improvements</label>
+                            <textarea class="form-control" id="q6" name="q6" placeholder="Enter response"></textarea>
                         </div>
                         <button type="submit" class="btn btn-primary btn-lg">Submit</button>
                     </form>

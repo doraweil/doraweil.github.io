@@ -82,10 +82,11 @@
             var currentTrial;
             var totalNumberOfTrials;
             var headers = ['Participant id', 'Technique', 'Granularity',
-                            'Trial no', 'Stimuli', 'User Response', 'Trial Start Time',
-                            'Trial End Time', 'Trial Time', 'Accuracy'];
+                            'Trial no', 'Stimuli', 'User Response', 'Language of Text',
+                            'Trial Start Time', 'Trial End Time', 'Trial Time', 'Accuracy'];
             var trialData = [];
             var pid;
+            var breakPoints = [2, 4];
 
             function next () {
                 if (currentTrial !== 0) {
@@ -105,6 +106,11 @@
                                 stimuli, userResponse, trialStartTime,
                                 trialEndTime, trialDuration, accuracy];
                     trialData.push(row);
+                }
+
+                if (breakPoints.indexOf(currentTrial) !== -1) {
+                    
+
                 }
 
                 if (currentTrial < totalNumberOfTrials) {
