@@ -46,8 +46,8 @@
                                 <td><span class="js-expt-granularity">Phrase</span></td>
                             </tr>
                             <tr>
-                                <td>Independent Variable 3</td>
-                                <td>???</td>
+                                <td>Language of Text</td>
+                                <td><span class="js-expt-language-of-text">English</span></td>
                             </tr>
                             <tr>
                                 <td>Trial</td>
@@ -81,8 +81,8 @@
             var trialsData;
             var currentTrial;
             var totalNumberOfTrials;
-            var headers = ['Participant id', 'Technique', 'Granularity',
-                            'Trial no', 'Stimuli', 'User Response', 'Language of Text',
+            var headers = ['Participant id', 'Technique', 'Granularity', 'Language of Text',
+                            'Trial no', 'Stimuli', 'User Response',
                             'Trial Start Time', 'Trial End Time', 'Trial Time', 'Accuracy'];
             var trialData = [];
             var pid;
@@ -94,6 +94,7 @@
 
                     var technique = trialResult.technique;
                     var granularity = trialResult.granularity;
+                    var languageOfText = trialResult.languageOfText;
                     var trialNum = currentTrial;
                     var stimuli = trialResult.stimuli;
                     var userResponse = trialResult.user_response;
@@ -102,7 +103,7 @@
                     var trialDuration = trialResult.duration;
                     var accuracy = stimuli === userResponse ? 1 : 0;
 
-                    var row = [pid, technique, granularity, trialNum,
+                    var row = [pid, technique, granularity, languageOfText, trialNum,
                                 stimuli, userResponse, trialStartTime,
                                 trialEndTime, trialDuration, accuracy];
                     trialData.push(row);
