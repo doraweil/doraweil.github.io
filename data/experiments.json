@@ -125,6 +125,6 @@
             "language_of_text": "Mixture of English and Chinese",
             "data_file": "data/text8.json",
             "stimuli": "The 成本 lies in the 编号 of space launches required to build the power-transmitting satellite. With costs as high as $40,000 per kilogram for some space launches, the final price-tag for the first space-based solar power station could be as high as $20 billion." 
-        },     
+        }    
     ]
 }
