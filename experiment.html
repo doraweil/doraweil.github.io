@@ -127,14 +127,14 @@
 
             $(document).ready(function () {
                 var users = {
-                    "P01" : 'data/experiments.json',
-                    "P02" : 'data/experiments2.json',
-                    "P03" : 'data/experiments3.json',
-                    "P04" : 'data/experiments4.json',
-                    "P05" : 'data/experiments5.json',
-                    "P06" : 'data/experiments6.json'
+                    "P01" : 'data/experiment1.json',
+                    "P02" : 'data/experiment2.json',
+                    "P03" : 'data/experiment3.json',
+                    "P04" : 'data/experiment4.json',
+                    "P05" : 'data/experiment5.json',
+                    "P06" : 'data/experiment6.json'
                 }
-                
+
                 $.get(users[pid], function (data) {
                     trialsData = data.experiments;
                     currentTrial = 0;
