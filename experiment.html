@@ -136,6 +136,8 @@
                 }
 
                 $.get(experiments[ACPToolKit.getCurrentParticipantId()], function (data) {
+                    console.log(data);
+                    console.log(data.experiments);
                     trialsData = data.experiments;
                     currentTrial = 0;
                     totalNumberOfTrials = trialsData.length;
