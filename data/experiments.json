@@ -56,7 +56,7 @@
             "granularity": "paragraph",
             "language_of_text": "Other Language",
             "data_file": "data/text7.json",
-            "stimuli": "Mon College Je m'appelle Amy Vincent, j'ai 14 ans et je vais à Beal High School, à Ilford. Cependant, je n'habite pas dans Ilford, ma maison est à une demi-heure de l'ecole." 
+            "stimuli": "Mon College Je m'appelle Amy Vincent, j'ai 14 ans et je vais à Beal High School, à Ilford. Cependant, je n'habite pas dans Ilford, ma maison est à une demi-heure de l'ecole."
         },
         { 
             "technique": "AUTOCOMPASTE", 
@@ -64,7 +64,7 @@
             "language_of_text": "Mixture of Language",
             "data_file": "data/text8.json",
             "stimuli": "Douglas Guthrie distinguishes between guanxi and guanxixue (关系学, the 'art' or 'knowledge' of guanxi), as the former is considered in the modern Chinese society as common inter-personal ties that reflect the Chinese nature, while the latter represents the manipulation and corruption brought about by a selfish and sometimes illegal utilization of guanxi. 
-            Although many Chinese lament the strong importance of guanxi in their culture, they still consider guanxi as a Chinese element that should not be denied." 
+            Although many Chinese lament the strong importance of guanxi in their culture, they still consider guanxi as a Chinese element that should not be denied."
         },
         { 
             "technique": "TRADITIONAL", 
@@ -122,7 +122,7 @@
             "granularity": "paragraph",
             "language_of_text": "Other Language",
             "data_file": "data/text7.json",
-            "stimuli": "Mon College Je m'appelle Amy Vincent, j'ai 14 ans et je vais à Beal High School, à Ilford. Cependant, je n'habite pas dans Ilford, ma maison est à une demi-heure de l'ecole." 
+            "stimuli": "Mon College Je m'appelle Amy Vincent, j'ai 14 ans et je vais à Beal High School, à Ilford. Cependant, je n'habite pas dans Ilford, ma maison est à une demi-heure de l'ecole."
         },
         { 
             "technique": "TRADITIONAL", 
@@ -130,7 +130,7 @@
             "language_of_text": "Mixture of Language",
             "data_file": "data/text8.json",
             "stimuli": "Douglas Guthrie distinguishes between guanxi and guanxixue (关系学, the 'art' or 'knowledge' of guanxi), as the former is considered in the modern Chinese society as common inter-personal ties that reflect the Chinese nature, while the latter represents the manipulation and corruption brought about by a selfish and sometimes illegal utilization of guanxi. 
-            Although many Chinese lament the strong importance of guanxi in their culture, they still consider guanxi as a Chinese element that should not be denied." 
+            Although many Chinese lament the strong importance of guanxi in their culture, they still consider guanxi as a Chinese element that should not be denied."
         }    
     ]
 }
