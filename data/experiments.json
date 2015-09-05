@@ -40,9 +40,7 @@
             "granularity": "sentence",
             "language_of_text": "Mixture of Language",
             "data_file": "data/text8.json",
-            "stimuli": "Douglas Guthrie distinguishes between guanxi and guanxixue (关系学, the 'art' or 'knowledge' of guanxi), 
-            as the former is considered in the modern Chinese society as common inter-personal ties that reflect the Chinese nature,
-            while the latter represents the manipulation and corruption brought about by a selfish and sometimes illegal utilization of guanxi." 
+            "stimuli": "Douglas Guthrie distinguishes between guanxi and guanxixue (关系学, the 'art' or 'knowledge' of guanxi), as the former is considered in the modern Chinese society as common inter-personal ties that reflect the Chinese nature, while the latter represents the manipulation and corruption brought about by a selfish and sometimes illegal utilization of guanxi." 
         },
         { 
             "technique": "AUTOCOMPASTE", 
@@ -63,8 +61,7 @@
             "granularity": "paragraph",
             "language_of_text": "Mixture of Language",
             "data_file": "data/text8.json",
-            "stimuli": "Douglas Guthrie distinguishes between guanxi and guanxixue (关系学, the 'art' or 'knowledge' of guanxi), as the former is considered in the modern Chinese society as common inter-personal ties that reflect the Chinese nature, while the latter represents the manipulation and corruption brought about by a selfish and sometimes illegal utilization of guanxi. 
-            Although many Chinese lament the strong importance of guanxi in their culture, they still consider guanxi as a Chinese element that should not be denied."
+            "stimuli": "Douglas Guthrie distinguishes between guanxi and guanxixue (关系学, the 'art' or 'knowledge' of guanxi), as the former is considered in the modern Chinese society as common inter-personal ties that reflect the Chinese nature, while the latter represents the manipulation and corruption brought about by a selfish and sometimes illegal utilization of guanxi. Although many Chinese lament the strong importance of guanxi in their culture, they still consider guanxi as a Chinese element that should not be denied."
         },
         { 
             "technique": "TRADITIONAL", 
@@ -106,16 +103,14 @@
             "granularity": "sentence",
             "language_of_text": "Mixture of Language",
             "data_file": "data/text8.json",
-            "stimuli": "Douglas Guthrie distinguishes between guanxi and guanxixue (关系学, the 'art' or 'knowledge' of guanxi), 
-            as the former is considered in the modern Chinese society as common inter-personal ties that reflect the Chinese nature,
-            while the latter represents the manipulation and corruption brought about by a selfish and sometimes illegal utilization of guanxi." 
+            "stimuli": "Douglas Guthrie distinguishes between guanxi and guanxixue (关系学, the 'art' or 'knowledge' of guanxi), as the former is considered in the modern Chinese society as common inter-personal ties that reflect the Chinese nature, while the latter represents the manipulation and corruption brought about by a selfish and sometimes illegal utilization of guanxi."
         },
         { 
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
             "language_of_text": "English",
             "data_file": "data/text1.json",
-            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage." 
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage."
         },
         { 
             "technique": "TRADITIONAL", 
@@ -129,8 +124,7 @@
             "granularity": "paragraph",
             "language_of_text": "Mixture of Language",
             "data_file": "data/text8.json",
-            "stimuli": "Douglas Guthrie distinguishes between guanxi and guanxixue (关系学, the 'art' or 'knowledge' of guanxi), as the former is considered in the modern Chinese society as common inter-personal ties that reflect the Chinese nature, while the latter represents the manipulation and corruption brought about by a selfish and sometimes illegal utilization of guanxi. 
-            Although many Chinese lament the strong importance of guanxi in their culture, they still consider guanxi as a Chinese element that should not be denied."
+            "stimuli": "Douglas Guthrie distinguishes between guanxi and guanxixue (关系学, the 'art' or 'knowledge' of guanxi), as the former is considered in the modern Chinese society as common inter-personal ties that reflect the Chinese nature, while the latter represents the manipulation and corruption brought about by a selfish and sometimes illegal utilization of guanxi. Although many Chinese lament the strong importance of guanxi in their culture, they still consider guanxi as a Chinese element that should not be denied."
         }    
     ]
 }
