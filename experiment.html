@@ -94,9 +94,7 @@
                 if (currentTrial !== 0) {
                     var trialResult = ACPToolKit.getCurrentTrialState();
 
-                    var technique = trialResult.technique === 'TRADITIONAL' ?
-                                    'TRADITIONAL (Ctrl-C, Ctrl-V)' :
-                                    trialResult.technique;
+                    var technique = trialResult.technique;
                     var granularity = trialResult.granularity;
                     var languageOfText = trialResult.language_of_text;
                     var trialNum = currentTrial;
