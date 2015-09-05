@@ -135,8 +135,7 @@
                     "P06" : 'data/experiment6.json'
                 }
 
-                console.log(pid);
-                $.get(experiments[pid], function (data) {
+                $.get(experiments[ACPToolKit.getCurrentParticipantId()], function (data) {
                     trialsData = data.experiments;
                     currentTrial = 0;
                     totalNumberOfTrials = trialsData.length;
