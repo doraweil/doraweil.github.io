@@ -2,10 +2,45 @@
     "experiments": [
         { 
             "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "language_of_text": "English",
+            "data_file": "data/text4.json",
+            "stimuli": "number of positive charges" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "language_of_text": "Chinese",
+            "data_file": "data/text7.json",
+            "stimuli": "正好是我国" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "language_of_text": "Mixture of English and Chinese",
+            "data_file": "data/text8.json",
+            "stimuli": "工程师 at the US Naval Research Laboratory" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
             "language_of_text": "English",
             "data_file": "data/text1.json",
             "stimuli": "What is acceptor atoms?" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "language_of_text": "Chinese",
+            "data_file": "data/text7.json",
+            "stimuli": "今年正好是我国金禧国庆，同时也步入后李光耀时代。" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "language_of_text": "Mixture of English and Chinese",
+            "data_file": "data/text8.json",
+            "stimuli": "The 成本 lies in the 编号 of space launches required to build the power-transmitting satellite." 
         },
         { 
             "technique": "AUTOCOMPASTE", 
@@ -16,10 +51,38 @@
         },
         { 
             "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "language_of_text": "Chinese",
+            "data_file": "data/text7.json",
+            "stimuli": "今年正好是我国金禧国庆，同时也步入后李光耀时代。在这个具有分水岭意义的大选，候选人会专注哪些议题来吸引选票？那些议题又是目前的争议焦点？" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "language_of_text": "Mixture of English and Chinese",
+            "data_file": "data/text8.json",
+            "stimuli": "The 成本 lies in the 编号 of space launches required to build the power-transmitting satellite. With costs as high as $40,000 per kilogram for some space launches, the final price-tag for the first space-based solar power station could be as high as $20 billion." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
             "granularity": "phrase",
             "language_of_text": "English",
             "data_file": "data/text4.json",
             "stimuli": "number of positive charges" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "language_of_text": "Chinese",
+            "data_file": "data/text7.json",
+            "stimuli": "正好是我国" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "language_of_text": "Mixture of English and Chinese",
+            "data_file": "data/text8.json",
+            "stimuli": "工程师 at the US Naval Research Laboratory" 
         },
         { 
             "technique": "TRADITIONAL", 
@@ -30,6 +93,20 @@
         },
         { 
             "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "language_of_text": "Chinese",
+            "data_file": "data/text7.json",
+            "stimuli": "今年正好是我国金禧国庆，同时也步入后李光耀时代。" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "language_of_text": "Mixture of English and Chinese",
+            "data_file": "data/text8.json",
+            "stimuli": "The 成本 lies in the 编号 of space launches required to build the power-transmitting satellite." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
             "granularity": "paragraph",
             "language_of_text": "English",
             "data_file": "data/text1.json",
@@ -37,10 +114,17 @@
         },
         { 
             "technique": "TRADITIONAL", 
-            "granularity": "phrase",
-            "language_of_text": "English",
-            "data_file": "data/text4.json",
-            "stimuli": "number of positive charges" 
-        }        
+            "granularity": "paragraph",
+            "language_of_text": "Chinese",
+            "data_file": "data/text7.json",
+            "stimuli": "今年正好是我国金禧国庆，同时也步入后李光耀时代。在这个具有分水岭意义的大选，候选人会专注哪些议题来吸引选票？那些议题又是目前的争议焦点？" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "language_of_text": "Mixture of English and Chinese",
+            "data_file": "data/text8.json",
+            "stimuli": "The 成本 lies in the 编号 of space launches required to build the power-transmitting satellite. With costs as high as $40,000 per kilogram for some space launches, the final price-tag for the first space-based solar power station could be as high as $20 billion." 
+        },     
     ]
 }
