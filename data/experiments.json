@@ -10,16 +10,16 @@
         { 
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
-            "language_of_text": "Chinese",
+            "language_of_text": "Other Language",
             "data_file": "data/text7.json",
-            "stimuli": "正好是我国" 
+            "stimuli": "à une demi-heure de l'ecole" 
         },
         { 
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
-            "language_of_text": "Mixture of English and Chinese",
+            "language_of_text": "Mixture of Language",
             "data_file": "data/text8.json",
-            "stimuli": "工程师 at the US Naval Research Laboratory" 
+            "stimuli": "guanxixue (关系学, the 'art' or 'knowledge' of guanxi)" 
         },
         { 
             "technique": "AUTOCOMPASTE", 
@@ -31,16 +31,18 @@
         { 
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
-            "language_of_text": "Chinese",
+            "language_of_text": "Other Language",
             "data_file": "data/text7.json",
-            "stimuli": "今年正好是我国金禧国庆，同时也步入后李光耀时代。" 
+            "stimuli": "Mon père jouerais le foot contre leur équipe de football." 
         },
         { 
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
-            "language_of_text": "Mixture of English and Chinese",
+            "language_of_text": "Mixture of Language",
             "data_file": "data/text8.json",
-            "stimuli": "The 成本 lies in the 编号 of space launches required to build the power-transmitting satellite." 
+            "stimuli": "Douglas Guthrie distinguishes between guanxi and guanxixue (关系学, the 'art' or 'knowledge' of guanxi), 
+            as the former is considered in the modern Chinese society as common inter-personal ties that reflect the Chinese nature,
+            while the latter represents the manipulation and corruption brought about by a selfish and sometimes illegal utilization of guanxi." 
         },
         { 
             "technique": "AUTOCOMPASTE", 
@@ -52,16 +54,17 @@
         { 
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
-            "language_of_text": "Chinese",
+            "language_of_text": "Other Language",
             "data_file": "data/text7.json",
-            "stimuli": "今年正好是我国金禧国庆，同时也步入后李光耀时代。在这个具有分水岭意义的大选，候选人会专注哪些议题来吸引选票？那些议题又是目前的争议焦点？" 
+            "stimuli": "Mon College Je m'appelle Amy Vincent, j'ai 14 ans et je vais à Beal High School, à Ilford. Cependant, je n'habite pas dans Ilford, ma maison est à une demi-heure de l'ecole." 
         },
         { 
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
-            "language_of_text": "Mixture of English and Chinese",
+            "language_of_text": "Mixture of Language",
             "data_file": "data/text8.json",
-            "stimuli": "The 成本 lies in the 编号 of space launches required to build the power-transmitting satellite. With costs as high as $40,000 per kilogram for some space launches, the final price-tag for the first space-based solar power station could be as high as $20 billion." 
+            "stimuli": "Douglas Guthrie distinguishes between guanxi and guanxixue (关系学, the 'art' or 'knowledge' of guanxi), as the former is considered in the modern Chinese society as common inter-personal ties that reflect the Chinese nature, while the latter represents the manipulation and corruption brought about by a selfish and sometimes illegal utilization of guanxi. 
+            Although many Chinese lament the strong importance of guanxi in their culture, they still consider guanxi as a Chinese element that should not be denied." 
         },
         { 
             "technique": "TRADITIONAL", 
@@ -73,16 +76,16 @@
         { 
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
-            "language_of_text": "Chinese",
+            "language_of_text": "Other Language",
             "data_file": "data/text7.json",
-            "stimuli": "正好是我国" 
+            "stimuli": "à une demi-heure de l'ecole" 
         },
         { 
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
-            "language_of_text": "Mixture of English and Chinese",
+            "language_of_text": "Mixture of Language",
             "data_file": "data/text8.json",
-            "stimuli": "工程师 at the US Naval Research Laboratory" 
+            "stimuli": "guanxixue (关系学, the 'art' or 'knowledge' of guanxi)" 
         },
         { 
             "technique": "TRADITIONAL", 
@@ -94,16 +97,18 @@
         { 
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
-            "language_of_text": "Chinese",
+            "language_of_text": "Other Language",
             "data_file": "data/text7.json",
-            "stimuli": "今年正好是我国金禧国庆，同时也步入后李光耀时代。" 
+            "stimuli": "Mon père jouerais le foot contre leur équipe de football." 
         },
         { 
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
-            "language_of_text": "Mixture of English and Chinese",
+            "language_of_text": "Mixture of Language",
             "data_file": "data/text8.json",
-            "stimuli": "The 成本 lies in the 编号 of space launches required to build the power-transmitting satellite." 
+            "stimuli": "Douglas Guthrie distinguishes between guanxi and guanxixue (关系学, the 'art' or 'knowledge' of guanxi), 
+            as the former is considered in the modern Chinese society as common inter-personal ties that reflect the Chinese nature,
+            while the latter represents the manipulation and corruption brought about by a selfish and sometimes illegal utilization of guanxi." 
         },
         { 
             "technique": "TRADITIONAL", 
@@ -115,16 +120,17 @@
         { 
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
-            "language_of_text": "Chinese",
+            "language_of_text": "Other Language",
             "data_file": "data/text7.json",
-            "stimuli": "今年正好是我国金禧国庆，同时也步入后李光耀时代。在这个具有分水岭意义的大选，候选人会专注哪些议题来吸引选票？那些议题又是目前的争议焦点？" 
+            "stimuli": "Mon College Je m'appelle Amy Vincent, j'ai 14 ans et je vais à Beal High School, à Ilford. Cependant, je n'habite pas dans Ilford, ma maison est à une demi-heure de l'ecole." 
         },
         { 
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
-            "language_of_text": "Mixture of English and Chinese",
+            "language_of_text": "Mixture of Language",
             "data_file": "data/text8.json",
-            "stimuli": "The 成本 lies in the 编号 of space launches required to build the power-transmitting satellite. With costs as high as $40,000 per kilogram for some space launches, the final price-tag for the first space-based solar power station could be as high as $20 billion." 
+            "stimuli": "Douglas Guthrie distinguishes between guanxi and guanxixue (关系学, the 'art' or 'knowledge' of guanxi), as the former is considered in the modern Chinese society as common inter-personal ties that reflect the Chinese nature, while the latter represents the manipulation and corruption brought about by a selfish and sometimes illegal utilization of guanxi. 
+            Although many Chinese lament the strong importance of guanxi in their culture, they still consider guanxi as a Chinese element that should not be denied." 
         }    
     ]
 }
