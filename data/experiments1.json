@@ -1,6 +1,6 @@
 {
     "experiments": [
-        //
+        
         { 
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
@@ -128,7 +128,7 @@
             "stimuli": "Douglas Guthrie distinguishes between guanxi and guanxixue (关系学, the 'art' or 'knowledge' of guanxi), as the former is considered in the modern Chinese society as common inter-personal ties that reflect the Chinese nature, while the latter represents the manipulation and corruption brought about by a selfish and sometimes illegal utilization of guanxi. Although many Chinese lament the strong importance of guanxi in their culture, they still consider guanxi as a Chinese element that should not be denied."
         },
 
-        
+
 
         { 
             "technique": "AUTOCOMPASTE", 
@@ -257,7 +257,7 @@
             "stimuli": "Douglas Guthrie distinguishes between guanxi and guanxixue (关系学, the 'art' or 'knowledge' of guanxi), as the former is considered in the modern Chinese society as common inter-personal ties that reflect the Chinese nature, while the latter represents the manipulation and corruption brought about by a selfish and sometimes illegal utilization of guanxi."
         },
 
-        
+
 
         { 
             "technique": "AUTOCOMPASTE", 
