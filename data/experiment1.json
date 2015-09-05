@@ -1,6 +1,6 @@
 {
     "experiments": [
-        // block 1 
+       
         { 
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
