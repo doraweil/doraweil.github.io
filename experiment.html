@@ -126,7 +126,16 @@
             }
 
             $(document).ready(function () {
-                $.get('data/experiments.json', function (data) {
+                var users = {
+                    "P01" : 'data/experiments.json',
+                    "P02" : 'data/experiments2.json',
+                    "P03" : 'data/experiments3.json',
+                    "P04" : 'data/experiments4.json',
+                    "P05" : 'data/experiments5.json',
+                    "P06" : 'data/experiments6.json'
+                }
+                
+                $.get(users[pid], function (data) {
                     trialsData = data.experiments;
                     currentTrial = 0;
                     totalNumberOfTrials = trialsData.length;
