@@ -436,8 +436,29 @@
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
             "language_of_text": "English",
+            "data_file": "data/text3.json",
+            "stimuli": "What is antenna" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "language_of_text": "English",
             "data_file": "data/text4.json",
             "stimuli": "number of positive charges" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "language_of_text": "English",
+            "data_file": "data/text5.json",
+            "stimuli": "bipolar junction transistor" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "language_of_text": "Other Language",
+            "data_file": "data/text10.json",
+            "stimuli": "照顾到老化的人口" 
         },
         { 
             "technique": "TRADITIONAL", 
@@ -446,13 +467,41 @@
             "data_file": "data/text7.json",
             "stimuli": "à une demi-heure de l'ecole" 
         },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "language_of_text": "Other Language",
+            "data_file": "data/text11.json",
+            "stimuli": "Würzburg verbrachte Dirk seine Jugend" 
+        },
         
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "language_of_text": "English",
+            "data_file": "data/text3.json",
+            "stimuli": "The positive electrode or terminal of a device." 
+        },
         { 
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
             "language_of_text": "English",
             "data_file": "data/text1.json",
             "stimuli": "What is acceptor atoms?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "language_of_text": "English",
+            "data_file": "data/text6.json",
+            "stimuli": "In some languages, articles are a special part of speech, which cannot easily be combined with other parts of speech." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "language_of_text": "Other Language",
+            "data_file": "data/text11.json",
+            "stimuli": "Er hat eine ältere Schwester, die eine Profi-Basketballspielerin ist." 
         },
         { 
             "technique": "TRADITIONAL", 
@@ -464,10 +513,11 @@
         { 
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
-            "language_of_text": "Mixture of Language",
-            "data_file": "data/text8.json",
-            "stimuli": "Douglas Guthrie distinguishes between guanxi and guanxixue (关系学, the 'art' or 'knowledge' of guanxi), as the former is considered in the modern Chinese society as common inter-personal ties that reflect the Chinese nature, while the latter represents the manipulation and corruption brought about by a selfish and sometimes illegal utilization of guanxi."
+            "language_of_text": "Other Language",
+            "data_file": "data/text10.json",
+            "stimuli": "新中心把教育、研究和临床治疗服务结合在一起，将促进不同领域的专科人士之间的合作，增加更多跨领域的研究工作。" 
         },
+        
 
         { 
             "technique": "AUTOCOMPASTE", 
@@ -483,13 +533,7 @@
             "data_file": "data/text7.json",
             "stimuli": "Mon père jouerais le foot contre leur équipe de football." 
         },
-        { 
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "sentence",
-            "language_of_text": "Mixture of Language",
-            "data_file": "data/text8.json",
-            "stimuli": "Douglas Guthrie distinguishes between guanxi and guanxixue (关系学, the 'art' or 'knowledge' of guanxi), as the former is considered in the modern Chinese society as common inter-personal ties that reflect the Chinese nature, while the latter represents the manipulation and corruption brought about by a selfish and sometimes illegal utilization of guanxi." 
-        },
+        
         { 
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
@@ -504,13 +548,7 @@
             "data_file": "data/text7.json",
             "stimuli": "Mon College Je m'appelle Amy Vincent, j'ai 14 ans et je vais à Beal High School, à Ilford. Cependant, je n'habite pas dans Ilford, ma maison est à une demi-heure de l'ecole."
         },
-        { 
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "paragraph",
-            "language_of_text": "Mixture of Language",
-            "data_file": "data/text8.json",
-            "stimuli": "Douglas Guthrie distinguishes between guanxi and guanxixue (关系学, the 'art' or 'knowledge' of guanxi), as the former is considered in the modern Chinese society as common inter-personal ties that reflect the Chinese nature, while the latter represents the manipulation and corruption brought about by a selfish and sometimes illegal utilization of guanxi. Although many Chinese lament the strong importance of guanxi in their culture, they still consider guanxi as a Chinese element that should not be denied."
-        },
+        
         { 
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
