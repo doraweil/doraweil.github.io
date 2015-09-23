@@ -140,6 +140,20 @@
         { 
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
+            "language_of_text": "English",
+            "data_file": "data/text3.json",
+            "stimuli": "What is antenna" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "language_of_text": "English",
+            "data_file": "data/text5.json",
+            "stimuli": "bipolar junction transistor" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
             "language_of_text": "Other Language",
             "data_file": "data/text7.json",
             "stimuli": "à une demi-heure de l'ecole" 
@@ -147,16 +161,38 @@
         { 
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
-            "language_of_text": "Mixture of Language",
-            "data_file": "data/text8.json",
-            "stimuli": "guanxixue (关系学, the 'art' or 'knowledge' of guanxi)" 
+            "language_of_text": "Other Language",
+            "data_file": "data/text10.json",
+            "stimuli": "照顾到老化的人口" 
         },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "language_of_text": "Other Language",
+            "data_file": "data/text11.json",
+            "stimuli": "Würzburg verbrachte Dirk seine Jugend" 
+        },
+        
         { 
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
             "language_of_text": "English",
             "data_file": "data/text1.json",
             "stimuli": "What is acceptor atoms?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "language_of_text": "English",
+            "data_file": "data/text3.json",
+            "stimuli": "The positive electrode or terminal of a device." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "language_of_text": "English",
+            "data_file": "data/text6.json",
+            "stimuli": "In some languages, articles are a special part of speech, which cannot easily be combined with other parts of speech." 
         },
         { 
             "technique": "TRADITIONAL", 
@@ -168,16 +204,38 @@
         { 
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
-            "language_of_text": "Mixture of Language",
-            "data_file": "data/text8.json",
-            "stimuli": "Douglas Guthrie distinguishes between guanxi and guanxixue (关系学, the 'art' or 'knowledge' of guanxi), as the former is considered in the modern Chinese society as common inter-personal ties that reflect the Chinese nature, while the latter represents the manipulation and corruption brought about by a selfish and sometimes illegal utilization of guanxi."
+            "language_of_text": "Other Language",
+            "data_file": "data/text11.json",
+            "stimuli": "Er hat eine ältere Schwester, die eine Profi-Basketballspielerin ist." 
         },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "language_of_text": "Other Language",
+            "data_file": "data/text10.json",
+            "stimuli": "新中心把教育、研究和临床治疗服务结合在一起，将促进不同领域的专科人士之间的合作，增加更多跨领域的研究工作。" 
+        },
+        
         { 
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
             "language_of_text": "English",
             "data_file": "data/text1.json",
             "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage."
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "language_of_text": "English",
+            "data_file": "data/text4.json",
+            "stimuli": "What is band-pass filter? A tuned circuit designed to pass a band of frequencies between a lower cut-off frequency (f1) and a higher cut-off frequency (f2). Frequencies above and below the pass band are heavily attenuated." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "language_of_text": "English",
+            "data_file": "data/text1.json",
+            "stimuli": "In languages that employ articles, every common noun, with some exceptions, is expressed with a certain definiteness, just as many languages express every noun with a certain grammatical number. Every noun must be accompanied by the article, if any, corresponding to its definiteness, and the lack of an article (considered a zero article) itself specifies a certain definiteness. This is in contrast to other adjectives and determiners, which are typically optional. This obligatory nature of articles makes them among the most common words in many languages - in English, for example, the most frequent word is the." 
         },
         { 
             "technique": "TRADITIONAL", 
@@ -189,10 +247,19 @@
         { 
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
-            "language_of_text": "Mixture of Language",
-            "data_file": "data/text8.json",
-            "stimuli": "Douglas Guthrie distinguishes between guanxi and guanxixue (关系学, the 'art' or 'knowledge' of guanxi), as the former is considered in the modern Chinese society as common inter-personal ties that reflect the Chinese nature, while the latter represents the manipulation and corruption brought about by a selfish and sometimes illegal utilization of guanxi. Although many Chinese lament the strong importance of guanxi in their culture, they still consider guanxi as a Chinese element that should not be denied."
+            "language_of_text": "Other Language",
+            "data_file": "data/text11.json",
+            "stimuli": "Groß, freundlich, erfolgreich, und bescheiden: Mit diesen Worten kann man ganz genau den Power Forward der Dallas Mavericks beschreiben. Dirk Nowitzki, der Power Forward und erster Europäer, der die NBA MVP gewann, wurde am 19. Juni 1978 geboren. In Würzburg
+                        verbrachte Dirk seine Jugend. Er hat eine ältere Schwester, die eine Profi-Basketballspielerin ist."
         },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "language_of_text": "Other Language",
+            "data_file": "data/text10.json",
+            "stimuli": "这是卫生部为了照顾到老化的人口所需的口腔卫生服务所推出的新项目之一。新中心也将为由特殊需求的病患，包括多重疾病患者提供牙科服务。"
+        },
+        
 
         { 
             "technique": "AUTOCOMPASTE", 
