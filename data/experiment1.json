@@ -249,8 +249,7 @@
             "granularity": "paragraph",
             "language_of_text": "Other Language",
             "data_file": "data/text11.json",
-            "stimuli": "Groß, freundlich, erfolgreich, und bescheiden: Mit diesen Worten kann man ganz genau den Power Forward der Dallas Mavericks beschreiben. Dirk Nowitzki, der Power Forward und erster Europäer, der die NBA MVP gewann, wurde am 19. Juni 1978 geboren. In Würzburg
-                        verbrachte Dirk seine Jugend. Er hat eine ältere Schwester, die eine Profi-Basketballspielerin ist."
+            "stimuli": "Groß, freundlich, erfolgreich, und bescheiden: Mit diesen Worten kann man ganz genau den Power Forward der Dallas Mavericks beschreiben. Dirk Nowitzki, der Power Forward und erster Europäer, der die NBA MVP gewann, wurde am 19. Juni 1978 geboren. In Würzburg verbrachte Dirk seine Jugend. Er hat eine ältere Schwester, die eine Profi-Basketballspielerin ist."
         },
         { 
             "technique": "TRADITIONAL", 
@@ -259,7 +258,7 @@
             "data_file": "data/text10.json",
             "stimuli": "这是卫生部为了照顾到老化的人口所需的口腔卫生服务所推出的新项目之一。新中心也将为由特殊需求的病患，包括多重疾病患者提供牙科服务。"
         },
-        
+
 
         { 
             "technique": "AUTOCOMPASTE", 
