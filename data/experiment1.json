@@ -105,7 +105,7 @@
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
             "language_of_text": "English",
-            "data_file": "data/text1.json",
+            "data_file": "data/text6.json",
             "stimuli": "In languages that employ articles, every common noun, with some exceptions, is expressed with a certain definiteness, just as many languages express every noun with a certain grammatical number. Every noun must be accompanied by the article, if any, corresponding to its definiteness, and the lack of an article (considered a zero article) itself specifies a certain definiteness. This is in contrast to other adjectives and determiners, which are typically optional. This obligatory nature of articles makes them among the most common words in many languages - in English, for example, the most frequent word is the." 
         },
         { 
@@ -234,7 +234,7 @@
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
             "language_of_text": "English",
-            "data_file": "data/text1.json",
+            "data_file": "data/text6.json",
             "stimuli": "In languages that employ articles, every common noun, with some exceptions, is expressed with a certain definiteness, just as many languages express every noun with a certain grammatical number. Every noun must be accompanied by the article, if any, corresponding to its definiteness, and the lack of an article (considered a zero article) itself specifies a certain definiteness. This is in contrast to other adjectives and determiners, which are typically optional. This obligatory nature of articles makes them among the most common words in many languages - in English, for example, the most frequent word is the." 
         },
         { 
@@ -278,7 +278,7 @@
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
             "language_of_text": "English",
-            "data_file": "data/text1.json",
+            "data_file": "data/text6.json",
             "stimuli": "In languages that employ articles, every common noun, with some exceptions, is expressed with a certain definiteness, just as many languages express every noun with a certain grammatical number. Every noun must be accompanied by the article, if any, corresponding to its definiteness, and the lack of an article (considered a zero article) itself specifies a certain definiteness. This is in contrast to other adjectives and determiners, which are typically optional. This obligatory nature of articles makes them among the most common words in many languages - in English, for example, the most frequent word is the." 
         },
         { 
@@ -407,7 +407,7 @@
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
             "language_of_text": "English",
-            "data_file": "data/text1.json",
+            "data_file": "data/text6.json",
             "stimuli": "In languages that employ articles, every common noun, with some exceptions, is expressed with a certain definiteness, just as many languages express every noun with a certain grammatical number. Every noun must be accompanied by the article, if any, corresponding to its definiteness, and the lack of an article (considered a zero article) itself specifies a certain definiteness. This is in contrast to other adjectives and determiners, which are typically optional. This obligatory nature of articles makes them among the most common words in many languages - in English, for example, the most frequent word is the." 
         },
         { 
@@ -566,7 +566,7 @@
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
             "language_of_text": "English",
-            "data_file": "data/text1.json",
+            "data_file": "data/text6.json",
             "stimuli": "In languages that employ articles, every common noun, with some exceptions, is expressed with a certain definiteness, just as many languages express every noun with a certain grammatical number. Every noun must be accompanied by the article, if any, corresponding to its definiteness, and the lack of an article (considered a zero article) itself specifies a certain definiteness. This is in contrast to other adjectives and determiners, which are typically optional. This obligatory nature of articles makes them among the most common words in many languages - in English, for example, the most frequent word is the." 
         },
         { 
@@ -695,7 +695,7 @@
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
             "language_of_text": "English",
-            "data_file": "data/text1.json",
+            "data_file": "data/text6.json",
             "stimuli": "In languages that employ articles, every common noun, with some exceptions, is expressed with a certain definiteness, just as many languages express every noun with a certain grammatical number. Every noun must be accompanied by the article, if any, corresponding to its definiteness, and the lack of an article (considered a zero article) itself specifies a certain definiteness. This is in contrast to other adjectives and determiners, which are typically optional. This obligatory nature of articles makes them among the most common words in many languages - in English, for example, the most frequent word is the." 
         },
         { 
