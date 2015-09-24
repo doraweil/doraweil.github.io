@@ -523,15 +523,15 @@
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
             "language_of_text": "English",
-            "data_file": "data/text1.json",
-            "stimuli": "What is acceptor atoms?" 
+            "data_file": "data/text6.json",
+            "stimuli": "In some languages, articles are a special part of speech, which cannot easily be combined with other parts of speech." 
         },
         { 
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
             "language_of_text": "English",
-            "data_file": "data/text6.json",
-            "stimuli": "In some languages, articles are a special part of speech, which cannot easily be combined with other parts of speech." 
+            "data_file": "data/text1.json",
+            "stimuli": "What is acceptor atoms?" 
         },
         { 
             "technique": "AUTOCOMPASTE", 
